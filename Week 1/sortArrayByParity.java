@@ -1,3 +1,6 @@
+// Author: Abenezer Sleshi Belay
+// https://leetcode.com/problems/sort-array-by-parity/
+
 class Solution {
     public int[] sortArrayByParity(int[] A) {
         int nxtE = 0;

@@ -1,3 +1,6 @@
+// Author: Abenezer Sleshi Belay
+// https://leetcode.com/problems/flipping-an-image
+
 class Solution {
     public int[][] flipAndInvertImage(int[][] A) {
         for(int i = 0; i<A.length; i++) {
